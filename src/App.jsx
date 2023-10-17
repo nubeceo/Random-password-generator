@@ -45,7 +45,7 @@ function App() {
     <>
       <div className="w-full max-w-xl mx-auto shadow-md rounded-lg px-4 my-8 text-orange-500 bg-gray-800 mt-20 flex flex-col flex-wrap justify-center ">
 
-        <h1 className='text-center text-white pt-5 font-mono text-xl'>Password Generator</h1>
+        <h1 className='text-center text-white pt-5 font-mono text-xl'>hello ayan dadaaaa</h1>
 
         <div className="flex shadow-lg rounded-lg overflow-hidden mb-4">
 
